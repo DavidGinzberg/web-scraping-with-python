@@ -39,6 +39,13 @@
 
 ## Resources
 
+### Sites you can try scraping
+
+- [sports-reference.com](https://www.sports-reference.com/)
+- DE School Profiles
+- [Wilmington Civic Neighborhood Organizations](https://www.wilmingtonde.gov/government/city-offices/constituent-services/civic-and-neighborhood-organizations)
+- IMDB
+
 ### Other Scraping tools
 
 - BeautifulSoup

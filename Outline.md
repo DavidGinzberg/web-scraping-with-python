@@ -4,7 +4,14 @@
 
 ### Tools We're Using
 
+- Python (version?)
+  - Beautiful Soup
+  - Requests
+- Web browser
+
 ### What is Web Scraping
+
+Pulling out pieces of html pages to generate usable data.
 
 ### Example Sites to Scrape
 
@@ -28,12 +35,19 @@
 
 ### Python Basics Refresh
 
+- Space matters
+- Conditions
+- Functions
+- Lists
+
 ### Getting the webpage(s)
 
 - Manual download (good for testing)
 - Requests
 
 ### Beautiful Soup
+
+- Designed for processing HTML
 
 ## ~Cool Tricks~
 

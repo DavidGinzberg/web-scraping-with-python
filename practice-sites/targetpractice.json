@@ -1,0 +1,36 @@
+{
+    "Sites":    [
+        {
+            "name": "Template",
+            "description": "",
+            "test-url": "#",
+            "live-site": "#"
+        },{
+            "name": "Daily Catch",
+            "description": "A small mock-up site of market prices at an imaginary fish market",
+            "test-url": "DailyCatch.html",
+            "live-site": "#"
+        },{
+            "name": "Wilmington Civic Associations",
+            "description": "",
+            "test-url": "Wilmington-Civic-Associations.html",
+            "live-site": "https://www.wilmingtonde.gov/government/city-offices/constituent-services/civic-and-neighborhood-organizations"
+        },{
+            "name": "Wilmington Red Light Cameras",
+            "description": "List of red light cameras in the City of Wilmington",
+            "test-url": "Wilmington-Red-Light-Cameras.htm",
+            "live-site": "https://www.wilmingtonde.gov/residents/red-light-camera-safety-program"
+        },{
+            "name": "Newark Boards, Committees, and Commissions - Open positions",
+            "description": "The page for City of Newark boards, committees, and commissions, which includes open positions on each",
+            "test-url": "Newark-Boards-Committees-Commissions.html",
+            "live-site": "https://newarkde.gov/113/Boards-Committees-Commissions"
+        },{
+            "name": "City of Newark",
+            "description": "Multiple pages from the City of Newark. Try scraping the list of departments from the main page to find where the other pages are located and then gathering department level info from each page",
+            "test-url": "multipage/Newark-Main-Page.html",
+            "live-site": "https://newarkde.gov/"
+        }
+    ],
+    "Test-Prefix": "practice-sites/"
+}

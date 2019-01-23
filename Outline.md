@@ -70,4 +70,4 @@ Pulling out pieces of html pages to generate usable data.
 
 ### Useful links
 
-- [Learn CSS Selectors](findone)
+- [Learn CSS Selectors at CSS Diner](https://flukeout.github.io/)

@@ -7,7 +7,10 @@
 - Python (version?)
   - Beautiful Soup
   - Requests
+  - Jupyter notebooks (formerly IPython notebooks)
 - Web browser
+- GitHub
+- Mybinder.org
 
 ### What is Web Scraping
 

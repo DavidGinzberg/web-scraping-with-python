@@ -1,0 +1,5 @@
+name: binder-env
+dependencies:
+  - python
+  - pip:
+    - bs4
